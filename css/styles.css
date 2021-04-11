@@ -7,6 +7,7 @@ a {
 
 a:hover {
   color: #127a7a;
+  text-decoration: none;
 }
 
 body {
