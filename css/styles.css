@@ -36,6 +36,8 @@ h2 {
 h3 {
   color: #00adb5;
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px auto
 }
 
 hr {
